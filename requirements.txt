@@ -1,0 +1,7 @@
+openai
+pypdf
+PyPDF2
+python-dotenv>=1.0.1
+langchain
+replicate
+streamlit
